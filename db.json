@@ -1,0 +1,36 @@
+{
+    "buzoshombre": [
+    {
+        "name": "Buzo Label Religious",
+        "precio": 9000,
+        "img": "../img/images.jpg" 
+    },
+    {
+        "name": "Buzo Label",
+        "precio": 9000,
+        "img": "../img/images.jpg" 
+    },
+    {
+        "name": "Buzo Label",
+        "precio": 9000,
+        "img": "../img/images.jpg" 
+    },
+    {
+        "name": "Buzo Nico",
+        "precio": 9222000,
+        "img": "../img/key-ring-fcs.jpg" 
+    }
+    ],
+    "remerashombre": [
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../img/217344.jpg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../img/217344.jpg"
+        }
+    ]
+}
