@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function consultarBuzos() {
-    const urlApi = `${url}buzoshombre`;
+    const urlApi = `${url}remerashombre`;
 
     fetch(urlApi)
         .then(respuesta => respuesta.json())
