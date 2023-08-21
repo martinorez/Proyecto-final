@@ -14,7 +14,7 @@
 }
 
 
-*{
+* {
     margin: 0;
     padding: 0;
     border: 0;
@@ -277,7 +277,7 @@ ul {
     display: flex;
     flex-direction: row;
     margin-left: 25px;
-    margin-right: 25px; 
+    margin-right: 25px;
     justify-content: space-around;
     margin-bottom: 200px;
 }
@@ -293,7 +293,7 @@ ul {
     flex-direction: column;
     padding: 10px 15px;
     text-align: center;
-    
+
 }
 
 
@@ -307,7 +307,7 @@ ul {
 
 .PRECIO {
     font-size: 18px;
-    margin-bottom: 0px ;
+    margin-bottom: 0px;
     max-width: 150px;
     margin-bottom: 15px;
 
@@ -316,7 +316,7 @@ ul {
 .NOMBRE {
     font-size: 22px;
     font-weight: 700;
-    margin-bottom: 0px ;
+    margin-bottom: 0px;
     max-width: 150px;
 
 }

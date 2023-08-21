@@ -1,37 +1,241 @@
 {
     "buzoshombre": [
-    {
-        "name": "Buzo Label Religious",
-        "precio": 9000,
-        "img": "../img/images.jpg" 
-    },
-    {
-        "name": "Buzo Label",
-        "precio": 9000,
-        "img": "../img/images.jpg" 
-    },
-    {
-        "name": "Buzo Label",
-        "precio": 9000,
-        "img": "../img/images.jpg" 
-    },
-    {
-        "name": "Buzo Nico",
-        "precio": 9222000,
-        "img": "../img/key-ring-fcs.jpg" 
-    }
-    
+        {
+            "name": "Buzo Label Religious",
+            "precio": 9000,
+            "img": "../imagenes/imagesbuzo.jpeg"
+        },
+        {
+            "name": "Buzo Label",
+            "precio": 9000,
+            "img": "../imagenes/imagesbuzo1.jpeg"
+        },
+        {
+            "name": "Buzo Label",
+            "precio": 9000,
+            "img": "../imagenes/imagesbuzo2.jpeg"
+        },
+        {
+            "name": "Buzo Nico",
+            "precio": 9222000,
+            "img": "../imagenes/images.jpeg"
+        }
     ],
     "remerashombre": [
         {
             "name": "Remera Label",
             "precio": 9000,
-            "img": "../img/217344.jpg"
+            "img": "../imagenes/descargaremera.jpeg"
         },
         {
             "name": "Remera Label",
             "precio": 9000,
-            "img": "../img/217344.jpg"
+            "img": "../imagenes/descargaremera1.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargaremera2.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargaremera3.jpeg"
+        }
+    ],
+    "camperashombre": [
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargacampera.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargacampera1.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargacampera2.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargacampera3.jpeg"
+        }
+    ],
+    "pantaloneshombre": [
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargapantalones.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargapantalones1.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargapantalones2.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargapantalones3.jpeg"
+        }
+    ],
+    "mallahombre": [
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargamalla.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargamalla1.jpeg"
+        }, {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargamalla2.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargamalla3.jpeg"
+        }
+    ],
+    "accesoriomujer": [
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargaaccesorio.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargaaccesorio1.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargaaccesorio2.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargaaccesorio3.jpeg"
+        }
+    ],
+    "bikinimujer": [
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargabikiniM.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargabikiniM1.jpeg"
+        },{
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargabikiniM2.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargabikiniM3.jpeg"
+        }
+    ],
+    "buzosmujer": [
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargabuzoM.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargabuzoM1.jpeg"
+        },{
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargabuzoM2.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargabuzoM3.jpeg"
+        }
+    ],
+    "remerasmujer": [
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargaremeraM.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargaremeraM1.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargaremeraM2.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargaremeraM3.jpeg"
+        }
+    ],
+    "camperasmujer": [
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargacamperaM.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargacamperaM1.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargacamperaM2.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargacamperaM3.jpeg"
+        }
+    ],
+    "pantalonesmujer": [
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargapantalonM.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargapantalonM1.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargapantalonM2.jpeg"
+        },
+        {
+            "name": "Remera Label",
+            "precio": 9000,
+            "img": "../imagenes/descargapantalonM3.jpeg"
         }
     ]
 }
