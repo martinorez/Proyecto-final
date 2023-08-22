@@ -1,239 +1,239 @@
 {
     "buzoshombre": [
         {
-            "name": "Buzo Label Religious",
-            "precio": 9000,
+            "name": "Label Religious",
+            "precio": 20000,
             "img": "../imagenes/imagesbuzo.jpeg"
         },
         {
-            "name": "Buzo Label",
-            "precio": 9000,
+            "name": "green",
+            "precio": 19000,
             "img": "../imagenes/imagesbuzo1.jpeg"
         },
         {
-            "name": "Buzo Label",
-            "precio": 9000,
+            "name": "white",
+            "precio": 23000,
             "img": "../imagenes/imagesbuzo2.jpeg"
         },
         {
-            "name": "Buzo Nico",
-            "precio": 9222000,
+            "name": "narg",
+            "precio": 29000,
             "img": "../imagenes/images.jpeg"
         }
     ],
     "remerashombre": [
         {
-            "name": "Remera Label",
+            "name": "Label99",
             "precio": 9000,
             "img": "../imagenes/descargaremera.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "autentic",
             "precio": 9000,
             "img": "../imagenes/descargaremera1.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "label",
             "precio": 9000,
             "img": "../imagenes/descargaremera2.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "Label12",
             "precio": 9000,
             "img": "../imagenes/descargaremera3.jpeg"
         }
     ],
     "camperashombre": [
         {
-            "name": "Remera Label",
-            "precio": 9000,
+            "name": "ARG",
+            "precio": 39000,
             "img": "../imagenes/descargacampera.jpeg"
         },
         {
-            "name": "Remera Label",
-            "precio": 9000,
+            "name": "sky",
+            "precio": 99000,
             "img": "../imagenes/descargacampera1.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "isk",
             "precio": 9000,
             "img": "../imagenes/descargacampera2.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "nike",
             "precio": 9000,
             "img": "../imagenes/descargacampera3.jpeg"
         }
     ],
     "pantaloneshombre": [
         {
-            "name": "Remera Label",
-            "precio": 9000,
+            "name": "grey",
+            "precio": 12000,
             "img": "../imagenes/descargapantalones.jpeg"
         },
         {
-            "name": "Remera Label",
-            "precio": 9000,
+            "name": "black",
+            "precio": 14000,
             "img": "../imagenes/descargapantalones1.jpeg"
         },
         {
-            "name": "Remera Label",
-            "precio": 9000,
+            "name": "cargo",
+            "precio": 10000,
             "img": "../imagenes/descargapantalones2.jpeg"
         },
         {
-            "name": "Remera Label",
-            "precio": 9000,
+            "name": "gren",
+            "precio": 11000,
             "img": "../imagenes/descargapantalones3.jpeg"
         }
     ],
     "mallahombre": [
         {
-            "name": "Remera Label",
+            "name": "nys",
             "precio": 9000,
             "img": "../imagenes/descargamalla.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "blu",
             "precio": 9000,
             "img": "../imagenes/descargamalla1.jpeg"
         }, {
-            "name": "Remera Label",
+            "name": "faS",
             "precio": 9000,
             "img": "../imagenes/descargamalla2.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "red",
             "precio": 9000,
             "img": "../imagenes/descargamalla3.jpeg"
         }
     ],
     "accesoriomujer": [
         {
-            "name": "Remera Label",
+            "name": "caw",
             "precio": 9000,
             "img": "../imagenes/descargaaccesorio.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "luow",
             "precio": 9000,
             "img": "../imagenes/descargaaccesorio1.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "rape",
             "precio": 9000,
             "img": "../imagenes/descargaaccesorio2.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "tussy",
             "precio": 9000,
             "img": "../imagenes/descargaaccesorio3.jpeg"
         }
     ],
     "bikinimujer": [
         {
-            "name": "Remera Label",
+            "name": "blar",
             "precio": 9000,
             "img": "../imagenes/descargabikiniM.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "utr",
             "precio": 9000,
             "img": "../imagenes/descargabikiniM1.jpeg"
         },{
-            "name": "Remera Label",
+            "name": "dase",
             "precio": 9000,
             "img": "../imagenes/descargabikiniM2.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "wer",
             "precio": 9000,
             "img": "../imagenes/descargabikiniM3.jpeg"
         }
     ],
     "buzosmujer": [
         {
-            "name": "Remera Label",
+            "name": "sky",
             "precio": 9000,
             "img": "../imagenes/descargabuzoM.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "blue",
             "precio": 9000,
             "img": "../imagenes/descargabuzoM1.jpeg"
         },{
-            "name": "Remera Label",
+            "name": "violet",
             "precio": 9000,
             "img": "../imagenes/descargabuzoM2.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "pink",
             "precio": 9000,
             "img": "../imagenes/descargabuzoM3.jpeg"
         }
     ],
     "remerasmujer": [
         {
-            "name": "Remera Label",
+            "name": "whit",
             "precio": 9000,
             "img": "../imagenes/descargaremeraM.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "rawa",
             "precio": 9000,
             "img": "../imagenes/descargaremeraM1.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "platr",
             "precio": 9000,
             "img": "../imagenes/descargaremeraM2.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "hset",
             "precio": 9000,
             "img": "../imagenes/descargaremeraM3.jpeg"
         }
     ],
     "camperasmujer": [
         {
-            "name": "Remera Label",
+            "name": "plar",
             "precio": 9000,
             "img": "../imagenes/descargacamperaM.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "blas",
             "precio": 9000,
             "img": "../imagenes/descargacamperaM1.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "eros",
             "precio": 9000,
             "img": "../imagenes/descargacamperaM2.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "set",
             "precio": 9000,
             "img": "../imagenes/descargacamperaM3.jpeg"
         }
     ],
     "pantalonesmujer": [
         {
-            "name": "Remera Label",
+            "name": "green",
             "precio": 9000,
             "img": "../imagenes/descargapantalonM.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "shet",
             "precio": 9000,
             "img": "../imagenes/descargapantalonM1.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "pazr",
             "precio": 9000,
             "img": "../imagenes/descargapantalonM2.jpeg"
         },
         {
-            "name": "Remera Label",
+            "name": "jean",
             "precio": 9000,
             "img": "../imagenes/descargapantalonM3.jpeg"
         }
